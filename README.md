@@ -8,3 +8,5 @@ GAIA coin offers the security and reliability of the blockchain with an Extensib
 * Bitcointalk: https://bitcointalk.org/index.php?topic=763119.0
 
 * Twitter: https://twitter.com/gaia_coin
+
+* IRC: https://kiwiirc.com/client/irc.freenode.net/#gaiacoin
