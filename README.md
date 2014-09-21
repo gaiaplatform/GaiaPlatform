@@ -11,4 +11,4 @@ GAIA coin offers the security and reliability of the blockchain with an Extensib
 
 * IRC: https://kiwiirc.com/client/irc.freenode.net/#gaiacoin
 
-* PoD by CryptoAsian
+* PoD-CryptoAsian
