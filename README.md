@@ -23,10 +23,11 @@ Specifications:
 * Difficulty retarget: every block
  
 Wallets:
+
 GAIA team chosen to migrate from the traditional QT interface and it’s limitations to something more flexible 
 which will give the platform wallet the ability to utilize wildly used and adopted web technologies. Here is 
 a list of the used technologies:
-    
+
 * node.js
 * AJAX
 * Bootstrap
