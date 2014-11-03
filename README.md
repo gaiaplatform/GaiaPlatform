@@ -43,4 +43,4 @@ Links:
 * Twitter: https://twitter.com/gaia_coin
 * IRC: https://kiwiirc.com/client/irc.freenode.net/#gaiacoin
 * Block Explorer: http://www.gaiaplatform.com/explorer/
-* PoD-CryptoAsian
+* CryptoAsian PoD: http://cryptoasian.com/gaia-gaia-platform/
