@@ -5,7 +5,7 @@ GAIA coin offers the security and reliability of the blockchain with an Extensib
 
 * Website: http://www.gaiaplatform.com/
 
-* Bitcointalk: https://bitcointalk.org/index.php?topic=763119.0
+* Bitcointalk: https://bitcointalk.org/index.php?topic=807698.0
 
 * Twitter: https://twitter.com/gaia_coin
 
