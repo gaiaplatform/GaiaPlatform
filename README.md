@@ -11,7 +11,7 @@ developers only as tool that maintains the blockchain and revert focus on the cr
 supports the e-commerce and development part of the currency. The block chain acts to maintain the integrity 
 of the network, while the Platform acts to integrate a wide range of services previously not easily supported.
 
-- Specifications:
+Specifications:
 * Ticker: GAIA
 * Total coins: ~24 Million*
 * Algo: 100% POS
@@ -22,16 +22,24 @@ of the network, while the Platform acts to integrate a wide range of services pr
 * Min stake age: 4 hours, no max age.
 * Difficulty retarget: every block
  
+Wallets:
+GAIA team chosen to migrate from the traditional QT interface and it’s limitations to something more flexible 
+which will give the platform wallet the ability to utilize wildly used and adopted web technologies. Here is 
+a list of the used technologies:
+    
+* node.js
+* AJAX
+* Bootstrap
+* AngularJS
+* HTML5
+* CSS3
+* JQuery
+* C++
 
 Links:
 * Website: http://www.gaiaplatform.com/
-
 * Bitcointalk: https://bitcointalk.org/index.php?topic=807698.0
-
 * Twitter: https://twitter.com/gaia_coin
-
 * IRC: https://kiwiirc.com/client/irc.freenode.net/#gaiacoin
-
 * Block Explorer: http://www.gaiaplatform.com/explorer/
-
 * PoD-CryptoAsian
